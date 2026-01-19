@@ -12,19 +12,6 @@ O objetivo é praticar a linguagem, organizar códigos e acompanhar minha evolu�
 
 ---
 
-## 🚀 Objetivo
-- Fixar conceitos básicos de JavaScript
-- Guardar exemplos práticos
-- Servir como referência futura quando eu estiver aprendendo outras linguagens
-
----
-
 ## 🛠️ Tecnologias
-- JavaScript (ES6+)
-- Node.js (opcional, para rodar alguns scripts)
-
----
-
-## 📌 Observação
-Este repositório é **apenas para JavaScript**.  
-Se eu estiver estudando outras linguagens, vou criar repositórios separados para não misturar os conteúdos.
+- JavaScript
+- Node.js
