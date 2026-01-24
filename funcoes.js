@@ -3,4 +3,4 @@ function saudacao() {
 }
 
 
-saudacao();
+saudacao()
